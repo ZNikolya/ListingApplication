@@ -1,5 +1,6 @@
 package com.example.listingapp.service.impl;
 
+import com.example.listingapp.dto.UserDto;
 import com.example.listingapp.model.User;
 import com.example.listingapp.repository.UserRepository;
 import com.example.listingapp.service.UserService;

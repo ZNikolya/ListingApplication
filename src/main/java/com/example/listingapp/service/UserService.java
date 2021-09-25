@@ -1,5 +1,6 @@
 package com.example.listingapp.service;
 
+import com.example.listingapp.dto.UserDto;
 import com.example.listingapp.model.Category;
 import com.example.listingapp.model.User;
 
