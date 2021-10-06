@@ -17,5 +17,6 @@ public interface ListingService {
 
     Listing putListing(int id, Listing listing);
 
+
     void deleteListing(int id);
 }
